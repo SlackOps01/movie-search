@@ -229,6 +229,14 @@ img{
     color: var(--purple-color);
 }
 
+.director{
+    margin-top: 1rem;
+}
+.box{
+    margin-top: 1rem;
+    color: var(--purple-color);
+    font-style: italic;
+}
 @media(max-width: 450px){
     .logo p{
         font-size: 1.4rem;
